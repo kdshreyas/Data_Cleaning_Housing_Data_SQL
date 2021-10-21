@@ -1,4 +1,4 @@
-# Data-Cleaning-With-Sql-Nashville-Housing-
+# Data-Cleaning-With-Sql-Nashville-Housing
 
 Data cleaning process
 
